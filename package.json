@@ -1,5 +1,5 @@
 {
-  "name": "postcss-advanced-variables",
+  "name": "@iiison/postcss-advanced-variables",
   "version": "4.0.0",
   "description": "Use Sass-like variables, conditionals, and iterators in CSS",
   "author": "Bharat Soni <i.bharat.soni@gmail.com>",
